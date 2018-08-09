@@ -1,0 +1,63 @@
+---
+:records:
+- :sprig_id: 1
+  :name: Action
+  :name_es: Acción
+  :id: 00000000-0000-0000-0000-004d513d3d0a
+- :sprig_id: 2
+  :name: Mystery
+  :name_es: Misterio
+  :id: 00000000-0000-0000-0000-004d673d3d0a
+- :sprig_id: 3
+  :name: Science Fiction
+  :name_es: Ciencia ficción
+  :id: 00000000-0000-0000-0000-004d773d3d0a
+- :sprig_id: 4
+  :name: Thriller
+  :name_es: Suspense
+  :id: 00000000-0000-0000-0000-004e413d3d0a
+- :sprig_id: 5
+  :name: Romance
+  :name_es: Romance
+  :id: 00000000-0000-0000-0000-004e513d3d0a
+- :sprig_id: 6
+  :name: Adventure
+  :name_es: Aventura
+  :id: 00000000-0000-0000-0000-004e673d3d0a
+- :sprig_id: 7
+  :name: Drama
+  :name_es: Drama
+  :id: 00000000-0000-0000-0000-004e773d3d0a
+- :sprig_id: 8
+  :name: Fantasy
+  :name_es: Fantasía
+  :id: 00000000-0000-0000-0000-004f413d3d0a
+- :sprig_id: 9
+  :name: Horror
+  :name_es: Terror
+  :id: 00000000-0000-0000-0000-004f513d3d0a
+- :sprig_id: 10
+  :name: Music
+  :name_es: Música
+  :id: 00000000-0000-0000-0000-004d54413d0a
+- :sprig_id: 11
+  :name: Animation
+  :name_es: Animación
+  :id: 00000000-0000-0000-0000-004d54453d0a
+- :sprig_id: 12
+  :name: Family
+  :name_es: Familia
+  :id: 00000000-0000-0000-0000-004d54493d0a
+- :sprig_id: 13
+  :name: Comedy
+  :name_es: Comedia
+  :id: 00000000-0000-0000-0000-004d544d3d0a
+- :sprig_id: 14
+  :name: Crime
+  :name_es: Crimen
+  :id: 00000000-0000-0000-0000-004d54513d0a
+- :sprig_id: 15
+  :name: History
+  :name_es: Historia
+  :id: 00000000-0000-0000-0000-004d54553d0a
+  
